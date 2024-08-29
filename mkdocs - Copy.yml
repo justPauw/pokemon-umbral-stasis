@@ -1,8 +1,8 @@
 site_name: Pokemon Umbral Stasis
-site_url: https://justpauw.github.io/umbral-stasis
+site_url: https://justpauw.github.io/pokemon-umbral-stasis
 site_description: 'Wiki for the Fan Game: Pokemon Umbral Stasis'
 site_author: justPauw
-repo_url: https://github.com/justPauw/umbral-stasis
+repo_url: https://github.com/justPauw/pokemon-umbral-stasis
 theme:
   name: material
   features:
