@@ -5,15 +5,15 @@
     <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; margin-bottom: 0.5rem;">
       <p style="color: #737373; margin: 0px; font-size: 16px; font-weight: normal;">Types</p>
       <div style="display: flex; flex-direction: row; align-items: center; column-gap: 1rem">
-        <img src='../../img/types/ground.png' style='width: 77px; height: 26px;'/>
+        <img src='../../img/types/bug.png' style='width: 77px; height: 26px;'/>
         <img src='../../img/types/dragon.png' style='width: 77px; height: 26px;'/>
       </div>
     </div>
     <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; ">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
-        <a href='' title="This Pokemon is immune to ground-type moves, spikes, toxic spikes, and arena trap.  This ability is disabled during gravity or ingrain, or while holding an iron ball.  This ability is not disabled during roost.">Levitate</a>
-        
+        <a href='' title="This Pokemon's Attack cannot be lowered by other Pokemon.  This ability does not prevent any Attack losses other than stat modifiers, such as the Attack cut from a burn.  This Pokemon can still be passed negative Attack modifiers through heart swap or power swap.">Hyper-cutter</a>
+        /<a href='' title="This Pokemon's Speed rises one stage after each turn.">Speed-boost</a>
       </div>
     </div>
   </div>

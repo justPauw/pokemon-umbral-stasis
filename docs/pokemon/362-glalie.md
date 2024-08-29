@@ -12,7 +12,7 @@
     <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; ">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
-        <a href='' title="This Pokemon cannot flinch.">Inner-focus</a>
+        <a href='' title="After each turn, one of this Pokemon's stats at random rises two stages, and another falls one stage.  If a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.">Moody</a>
         /<a href='' title="This Pokemon heals for 1/16 of its maximum HP after each turn during hail, and it does not take hail damage regardless of type.">Ice-body</a>
       </div>
     </div>

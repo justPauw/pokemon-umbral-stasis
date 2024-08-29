@@ -140,5 +140,6 @@
 	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM34 | Dragon-pulse | 85 | 100 | 10 | ![dragon](../img/types/dragon.png) | ![special](../img/types/special.png) |
 	| TM42 | Self-destruct | 200 | 100 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
+	| TM101 | Carbon-crush | 90 | 95 | 15 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
 
         

@@ -13,7 +13,7 @@
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Moves that hit this Pokemon have a 30% chance of being Disabled afterward.">Cursed-body</a>
-        
+        /<a href='' title="While this Pokemon is in battle, opposing Pokemon cannot flee or switch out.  Other Pokemon with this ability are unaffected.  Pokemon with run away can still flee.  Pokemon can still switch out with the use of a move or item.">Shadow-tag</a>
       </div>
     </div>
   </div>

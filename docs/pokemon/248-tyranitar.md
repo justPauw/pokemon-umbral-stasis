@@ -13,7 +13,7 @@
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="The weather changes to a sandstorm when this Pokemon enters battle and does not end unless cancelled by another weather condition.  If multiple Pokemon with this ability, drizzle, drought, or snow warning are sent out at the same time, the abilities will activate in order of Speed, respecting trick room.  Each ability's weather will cancel the previous weather, and only the weather summoned by the slowest of the Pokemon will stay.  Overworld: If the lead Pokemon has this ability, the wild encounter rate is halved in a sandstorm.">Sand-stream</a>
-        /<a href='' title="Opposing Pokemon cannot eat held Berries while this Pokemon is in battle.  Affected Pokemon can still use bug bite or pluck to eat a target's Berry.">Unnerve</a>
+        /<a href='' title="Halves the damage from physical moves.">Hardened-body</a>
       </div>
     </div>
   </div>

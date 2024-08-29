@@ -13,7 +13,7 @@
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever a move makes contact with this Pokemon, the move's user takes 1/8 of its maximum HP in damage.  This ability functions identically to iron barbs.">Rough-skin</a>
-        /<a href='' title="This Pokemon's Speed rises one stage after each turn.">Speed-boost</a>
+        /<a href='' title="Strengthens biting moves to 1.5x their power.">Strong-jaw</a>
       </div>
     </div>
   </div>

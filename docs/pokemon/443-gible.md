@@ -13,7 +13,7 @@
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="During a sandstorm, this Pokemon has 1.25x its evasion, and it does not take sandstorm damage regardless of type.  The evasion bonus does not count as a stat modifier.  Overworld: If the lead Pokemon has this ability, the wild encounter rate is halved in a sandstorm.">Sand-veil</a>
-        /<a href='' title="Whenever a move makes contact with this Pokemon, the move's user takes 1/8 of its maximum HP in damage.  This ability functions identically to iron barbs.">Rough-skin</a>
+        /<a href='' title="During a sandstorm, this Pokemon's rock-, ground-, and steel-type moves have 1.3x their base power.  This Pokemon does not take sandstorm damage, regardless of type.">Sand-force</a>
       </div>
     </div>
   </div>

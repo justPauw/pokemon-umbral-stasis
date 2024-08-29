@@ -12,7 +12,7 @@
     <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; ">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
-        <a href='' title="This Pokemon cannot be asleep.  This causes rest to fail altogether.  If a Pokemon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle.  This ability functions identically to insomnia in battle.  Overworld: If the lead Pokemon has this ability, higher-levelled Pokemon have their encounter rate increased.">Vital-spirit</a>
+        <a href='' title="This Pokemon cannot be poisoned.  This includes bad poison.  If a Pokemon is poisoned and acquires this ability, its poison is healed; this includes when regaining a lost ability upon leaving battle.">Immunity</a>
         
       </div>
     </div>

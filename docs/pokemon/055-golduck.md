@@ -6,13 +6,13 @@
       <p style="color: #737373; margin: 0px; font-size: 16px; font-weight: normal;">Types</p>
       <div style="display: flex; flex-direction: row; align-items: center; column-gap: 1rem">
         <img src='../../img/types/water.png' style='width: 77px; height: 26px;'/>
-        
+        <img src='../../img/types/psychic.png' style='width: 77px; height: 26px;'/>
       </div>
     </div>
     <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; ">
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
-        <a href='' title="While this Pokemon is in battle, self destruct and explosion will fail and aftermath will not take effect.">Damp</a>
+        <a href='' title="This Pokemon's Speed is doubled during rain.  This bonus does not count as a stat modifier.">Swift-swim</a>
         /<a href='' title="While this Pokemon is in battle, weather can still be in play, but will not have any of its effects.  This ability functions identically to air lock.">Cloud-nine</a>
       </div>
     </div>

@@ -138,5 +138,6 @@
 	| TM48 | Round | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 	| TM16 | Thunder-wave | - | 90 | 20 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
+	| TM101 | Carbon-crush | 90 | 95 | 15 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
 
         

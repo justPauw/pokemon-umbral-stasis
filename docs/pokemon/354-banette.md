@@ -13,7 +13,7 @@
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="This Pokemon cannot be asleep.  This causes rest to fail altogether.  If a Pokemon is asleep and acquires this ability, it will immediately wake up; this includes when regaining a lost ability upon leaving battle.  This ability functions identically to vital spirit in battle.">Insomnia</a>
-        /<a href='' title="When this Pokemon enters battle, it reveals an opposing Pokemon's held item to all participating trainers.  In a double battle, if one opponent has an item, this Pokemon will Frisk that Pokemon; if both have an item, it will Frisk one at random.">Frisk</a>
+        /<a href='' title="This Pokemon's non-damaging moves have their priority increased by one stage.">Prankster</a>
       </div>
     </div>
   </div>
@@ -24,17 +24,17 @@
   <tbody style="width: 100%;">
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;" >HP</th>
-      <td style="border-top: none; width: 70px">64</td>
+      <td style="border-top: none; width: 70px">84</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 25%;" class="ranking-bar rank-3">
+        <div style="width: 32%;" class="ranking-bar rank-4">
         </div>
       </td>
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Attack</th>
-      <td style="border-top: none; width: 70px">115</td>
+      <td style="border-top: none; width: 70px">135</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 45%;" class="ranking-bar rank-5">
+        <div style="width: 52%;" class="ranking-bar rank-6">
         </div>
       </td>
     </tr>
@@ -48,9 +48,9 @@
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">SP Attack</th>
-      <td style="border-top: none; width: 70px">83</td>
+      <td style="border-top: none; width: 70px">63</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 32%;" class="ranking-bar rank-4">
+        <div style="width: 24%;" class="ranking-bar rank-3">
         </div>
       </td>
     </tr>
@@ -64,9 +64,9 @@
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Speed</th>
-      <td style="border-top: none; width: 70px">65</td>
+      <td style="border-top: none; width: 70px">90</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 25%;" class="ranking-bar rank-3">
+        <div style="width: 35%;" class="ranking-bar rank-4">
         </div>
       </td>
     </tr>

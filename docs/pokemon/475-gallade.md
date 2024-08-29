@@ -13,7 +13,7 @@
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever this Pokemon flinches, its Speed rises one stage.">Steadfast</a>
-        /<a href='' title="Increases super-effective damage dealt to 1.25x.">Sharpness</a>
+        /<a href='' title="This Pokemon cannot flinch.">Inner-focus</a>
       </div>
     </div>
   </div>

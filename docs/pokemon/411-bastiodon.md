@@ -134,5 +134,6 @@
 	| TM18 | Rain-dance | - | - | 5 | ![water](../img/types/water.png) | ![status](../img/types/status.png) |
 	| TM68 | Giga-impact | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 	| TM35 | Flamethrower | 90 | 100 | 15 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
+	| TM101 | Carbon-crush | 90 | 95 | 15 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
 
         

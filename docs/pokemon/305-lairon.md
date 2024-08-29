@@ -90,12 +90,12 @@
 	| 22 | Iron-head | 80 | 100 | 15 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
 	| 28 | Take-down | 90 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 	| 31 | Metal-sound | - | 85 | 40 | ![steel](../img/types/steel.png) | ![status](../img/types/status.png) |
-	| 35 | Iron-tail | 100 | 75 | 15 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| 39 | Iron-defense | - | - | 15 | ![steel](../img/types/steel.png) | ![status](../img/types/status.png) |
+	| 35 | Stone-edge | 100 | 80 | 5 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
+	| 39 | Earthquake | 100 | 100 | 10 | ![ground](../img/types/ground.png) | ![physical](../img/types/physical.png) |
 	| 43 | Double-edge | 120 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 	| 47 | Autotomize | - | - | 15 | ![steel](../img/types/steel.png) | ![status](../img/types/status.png) |
 	| 51 | Heavy-slam | - | 100 | 10 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
-	| 55 | Metal-burst | - | 100 | 10 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
+	| 55 | Carbon-crush | 90 | 95 | 15 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
 
         
 

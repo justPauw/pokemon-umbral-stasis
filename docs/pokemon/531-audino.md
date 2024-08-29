@@ -6,7 +6,7 @@
       <p style="color: #737373; margin: 0px; font-size: 16px; font-weight: normal;">Types</p>
       <div style="display: flex; flex-direction: row; align-items: center; column-gap: 1rem">
         <img src='../../img/types/normal.png' style='width: 77px; height: 26px;'/>
-        
+        <img src='../../img/types/fairy.png' style='width: 77px; height: 26px;'/>
       </div>
     </div>
     <div style="display: flex; flex-direction: row; column-gap: 3rem; alignt-items: center; ">

@@ -13,7 +13,7 @@
       <p style="color: #737373; margin: 0px;  font-weight: normal; font-size:16px;">Abilities</p>
       <div style="display: flex; flex-direction: row; align-items: center; font-size: 16px">
         <a href='' title="Whenever this Pokemon is burned, paralyzed, or poisoned, the Pokemon who gave this Pokemon that ailment is also given the ailment.  This ability passes back bad poison when this Pokemon is badly poisoned.  This ability cannot pass on a status ailment that the Pokemon did not directly receive from another Pokemon, such as the poison from toxic spikes or the burn from a flame orb.  Overworld: If the lead Pokemon has this ability, wild Pokemon have a 50% chance of having the lead Pokemon's nature, and a 50% chance of being given a random nature as usual, including the lead Pokemon's nature.  This does not work on Pokemon received outside of battle or roaming legendaries.">Synchronize</a>
-        /<a href='' title="When this Pokemon enters battle, it copies a random opponent's ability.  This ability cannot copy flower gift, forecast, illusion, imposter, multitype, trace, wonder guard, or zen mode.">Trace</a>
+        /<a href='' title="Whenever a move makes contact with this Pokemon, the move's user has a 30% chance of being infatuated.  Overworld: If the first Pokemon in the party has this ability, any wild Pokemon whose species can be either gender has a 2/3 chance of being set to the opposite gender, and a 1/3 chance of having a random gender as usual.">Cute-charm</a>
       </div>
     </div>
   </div>

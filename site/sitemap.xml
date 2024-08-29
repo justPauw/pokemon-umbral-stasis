@@ -26,11 +26,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/003-mega-venusaur/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/003-venusaur/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
@@ -51,16 +46,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/006-mega-charizard-x/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/006-mega-charizard-y/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/007-squirtle/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
@@ -72,11 +57,6 @@
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/009-blastoise/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/009-mega-blastoise/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -111,22 +91,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/015-mega-beedrill/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/016-pidgey/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/017-pidgeotto/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/018-mega-pidgeot/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -371,11 +341,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/065-mega-alakazam/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/066-machop/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
@@ -442,11 +407,6 @@
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/079-slowpoke/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/080-mega-slowbro/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -522,11 +482,6 @@
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/094-gengar/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/094-mega-gengar/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -641,11 +596,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/115-mega-kangaskhan/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/116-horsea/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
@@ -701,11 +651,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/127-mega-pinsir/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/127-pinsir/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
@@ -722,11 +667,6 @@
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/130-gyarados/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/130-mega-gyarados/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -787,6 +727,11 @@
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/142-aerodactyl/</loc>
+         <lastmod>2024-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/142-ancient-aerodactyl/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -3392,11 +3337,6 @@
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/615-cryogonal/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/617-accelgor/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>

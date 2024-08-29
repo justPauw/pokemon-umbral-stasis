@@ -32,9 +32,9 @@
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Attack</th>
-      <td style="border-top: none; width: 70px">84</td>
+      <td style="border-top: none; width: 70px">109</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 32%;" class="ranking-bar rank-4">
+        <div style="width: 42%;" class="ranking-bar rank-5">
         </div>
       </td>
     </tr>
@@ -48,9 +48,9 @@
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">SP Attack</th>
-      <td style="border-top: none; width: 70px">109</td>
+      <td style="border-top: none; width: 70px">79</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 42%;" class="ranking-bar rank-5">
+        <div style="width: 30%;" class="ranking-bar rank-4">
         </div>
       </td>
     </tr>
@@ -64,9 +64,9 @@
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Speed</th>
-      <td style="border-top: none; width: 70px">100</td>
+      <td style="border-top: none; width: 70px">105</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 39%;" class="ranking-bar rank-4">
+        <div style="width: 41%;" class="ranking-bar rank-5">
         </div>
       </td>
     </tr>

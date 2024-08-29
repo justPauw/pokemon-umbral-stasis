@@ -166,9 +166,13 @@ nav:
   - 136 - Flareon: pokemon/136-flareon.md
   - 137 - Porygon: pokemon/137-porygon.md
   - 138 - Omanyte: pokemon/138-omanyte.md
+  - 138 - Ancient-omanyte: pokemon/138-ancient-omanyte.md
   - 139 - Omastar: pokemon/139-omastar.md
+  - 139 - Ancient-omastar: pokemon/139-ancient-omastar.md
   - 140 - Kabuto: pokemon/140-kabuto.md
+  - 140 - Ancient-kabuto: pokemon/140-ancient-kabuto.md
   - 141 - Kabutops: pokemon/141-kabutops.md
+  - 141 - Ancient-kabutops: pokemon/141-ancient-kabutops.md
   - 142 - Aerodactyl: pokemon/142-aerodactyl.md
   - 142 - Ancient-aerodactyl: pokemon/142-ancient-aerodactyl.md
   - 143 - Snorlax: pokemon/143-snorlax.md
@@ -179,8 +183,6 @@ nav:
   - 148 - Dragonair: pokemon/148-dragonair.md
   - 149 - Dragonite: pokemon/149-dragonite.md
   - 150 - Mewtwo: pokemon/150-mewtwo.md
-  - 150 - Mega-mewtwo-x: pokemon/150-mega-mewtwo-x.md
-  - 150 - Mega-mewtwo-y: pokemon/150-mega-mewtwo-y.md
   - 151 - Mew: pokemon/151-mew.md
   - 152 - Chikorita: pokemon/152-chikorita.md
   - 153 - Bayleef: pokemon/153-bayleef.md
@@ -212,7 +214,6 @@ nav:
   - 179 - Mareep: pokemon/179-mareep.md
   - 180 - Flaaffy: pokemon/180-flaaffy.md
   - 181 - Ampharos: pokemon/181-ampharos.md
-  - 181 - Mega-ampharos: pokemon/181-mega-ampharos.md
   - 182 - Bellossom: pokemon/182-bellossom.md
   - 183 - Marill: pokemon/183-marill.md
   - 184 - Azumarill: pokemon/184-azumarill.md
@@ -241,15 +242,12 @@ nav:
   - 207 - Gligar: pokemon/207-gligar.md
   - 208 - Steelix: pokemon/208-steelix.md
   - 208 - Crystal-steelix: pokemon/208-crystal-steelix.md
-  - 208 - Mega-steelix: pokemon/208-mega-steelix.md
   - 209 - Snubbull: pokemon/209-snubbull.md
   - 210 - Granbull: pokemon/210-granbull.md
   - 211 - Qwilfish: pokemon/211-qwilfish.md
   - 212 - Scizor: pokemon/212-scizor.md
-  - 212 - Mega-scizor: pokemon/212-mega-scizor.md
   - 213 - Shuckle: pokemon/213-shuckle.md
   - 214 - Heracross: pokemon/214-heracross.md
-  - 214 - Mega-heracross: pokemon/214-mega-heracross.md
   - 215 - Sneasel: pokemon/215-sneasel.md
   - 216 - Teddiursa: pokemon/216-teddiursa.md
   - 217 - Ursaring: pokemon/217-ursaring.md
@@ -265,7 +263,6 @@ nav:
   - 227 - Skarmory: pokemon/227-skarmory.md
   - 228 - Houndour: pokemon/228-houndour.md
   - 229 - Houndoom: pokemon/229-houndoom.md
-  - 229 - Mega-houndoom: pokemon/229-mega-houndoom.md
   - 230 - Kingdra: pokemon/230-kingdra.md
   - 231 - Phanpy: pokemon/231-phanpy.md
   - 232 - Donphan: pokemon/232-donphan.md
@@ -285,7 +282,6 @@ nav:
   - 246 - Larvitar: pokemon/246-larvitar.md
   - 247 - Pupitar: pokemon/247-pupitar.md
   - 248 - Tyranitar: pokemon/248-tyranitar.md
-  - 248 - Mega-tyranitar: pokemon/248-mega-tyranitar.md
   - 249 - Lugia: pokemon/249-lugia.md
   - 250 - Ho-oh: pokemon/250-ho-oh.md
   - 251 - Celebi: pokemon/251-celebi.md
@@ -295,11 +291,9 @@ nav:
   - 255 - Torchic: pokemon/255-torchic.md
   - 256 - Combusken: pokemon/256-combusken.md
   - 257 - Blaziken: pokemon/257-blaziken.md
-  - 257 - Mega-blaziken: pokemon/257-mega-blaziken.md
   - 258 - Mudkip: pokemon/258-mudkip.md
   - 259 - Marshtomp: pokemon/259-marshtomp.md
   - 260 - Swampert: pokemon/260-swampert.md
-  - 260 - Mega-swampert: pokemon/260-mega-swampert.md
   - 261 - Poochyena: pokemon/261-poochyena.md
   - 262 - Mightyena: pokemon/262-mightyena.md
   - 263 - Zigzagoon: pokemon/263-zigzagoon.md
@@ -322,7 +316,6 @@ nav:
   - 280 - Ralts: pokemon/280-ralts.md
   - 281 - Kirlia: pokemon/281-kirlia.md
   - 282 - Gardevoir: pokemon/282-gardevoir.md
-  - 282 - Mega-gardevoir: pokemon/282-mega-gardevoir.md
   - 283 - Surskit: pokemon/283-surskit.md
   - 284 - Masquerain: pokemon/284-masquerain.md
   - 285 - Shroomish: pokemon/285-shroomish.md
@@ -343,19 +336,14 @@ nav:
   - 300 - Skitty: pokemon/300-skitty.md
   - 301 - Delcatty: pokemon/301-delcatty.md
   - 302 - Sableye: pokemon/302-sableye.md
-  - 302 - Mega-sableye: pokemon/302-mega-sableye.md
   - 303 - Mawile: pokemon/303-mawile.md
-  - 303 - Mega-mawile: pokemon/303-mega-mawile.md
   - 304 - Aron: pokemon/304-aron.md
   - 305 - Lairon: pokemon/305-lairon.md
   - 306 - Aggron: pokemon/306-aggron.md
-  - 306 - Mega-aggron: pokemon/306-mega-aggron.md
   - 307 - Meditite: pokemon/307-meditite.md
   - 308 - Medicham: pokemon/308-medicham.md
-  - 308 - Mega-medicham: pokemon/308-mega-medicham.md
   - 309 - Electrike: pokemon/309-electrike.md
   - 310 - Manectric: pokemon/310-manectric.md
-  - 310 - Mega-manectric: pokemon/310-mega-manectric.md
   - 311 - Plusle: pokemon/311-plusle.md
   - 312 - Minun: pokemon/312-minun.md
   - 313 - Volbeat: pokemon/313-volbeat.md
@@ -365,12 +353,10 @@ nav:
   - 317 - Swalot: pokemon/317-swalot.md
   - 318 - Carvanha: pokemon/318-carvanha.md
   - 319 - Sharpedo: pokemon/319-sharpedo.md
-  - 319 - Meag-sharpedo: pokemon/319-meag-sharpedo.md
   - 320 - Wailmer: pokemon/320-wailmer.md
   - 321 - Wailord: pokemon/321-wailord.md
   - 322 - Numel: pokemon/322-numel.md
   - 323 - Camerupt: pokemon/323-camerupt.md
-  - 323 - Mega-camerupt: pokemon/323-mega-camerupt.md
   - 324 - Torkoal: pokemon/324-torkoal.md
   - 325 - Spoink: pokemon/325-spoink.md
   - 326 - Grumpig: pokemon/326-grumpig.md
@@ -380,7 +366,6 @@ nav:
   - 330 - Flygon: pokemon/330-flygon.md
   - 333 - Swablu: pokemon/333-swablu.md
   - 334 - Altaria: pokemon/334-altaria.md
-  - 334 - Mega-altaria: pokemon/334-mega-altaria.md
   - 335 - Zangoose: pokemon/335-zangoose.md
   - 336 - Seviper: pokemon/336-seviper.md
   - 337 - Lunatone: pokemon/337-lunatone.md
@@ -392,26 +377,27 @@ nav:
   - 343 - Baltoy: pokemon/343-baltoy.md
   - 344 - Claydol: pokemon/344-claydol.md
   - 345 - Lileep: pokemon/345-lileep.md
+  - 345 - Ancient-lileep: pokemon/345-ancient-lileep.md
   - 346 - Cradily: pokemon/346-cradily.md
+  - 346 - Ancient-cradily: pokemon/346-ancient-cradily.md
   - 347 - Anorith: pokemon/347-anorith.md
+  - 347 - Ancient-anorith: pokemon/347-ancient-anorith.md
   - 348 - Armaldo: pokemon/348-armaldo.md
+  - 348 - Ancient-armaldo: pokemon/348-ancient-armaldo.md
   - 349 - Feebas: pokemon/349-feebas.md
   - 350 - Milotic: pokemon/350-milotic.md
   - 351 - Castform: pokemon/351-castform.md
   - 352 - Kecleon: pokemon/352-kecleon.md
   - 353 - Shuppet: pokemon/353-shuppet.md
   - 354 - Banette: pokemon/354-banette.md
-  - 354 - Mega-banette: pokemon/354-mega-banette.md
   - 355 - Duskull: pokemon/355-duskull.md
   - 356 - Dusclops: pokemon/356-dusclops.md
   - 357 - Tropius: pokemon/357-tropius.md
   - 358 - Chimecho: pokemon/358-chimecho.md
   - 359 - Absol: pokemon/359-absol.md
-  - 359 - Mega-absol: pokemon/359-mega-absol.md
   - 360 - Wynaut: pokemon/360-wynaut.md
   - 361 - Snorunt: pokemon/361-snorunt.md
   - 362 - Glalie: pokemon/362-glalie.md
-  - 362 - Mega-glalie: pokemon/362-mega-glalie.md
   - 363 - Spheal: pokemon/363-spheal.md
   - 364 - Sealeo: pokemon/364-sealeo.md
   - 365 - Walrein: pokemon/365-walrein.md
@@ -423,24 +409,17 @@ nav:
   - 371 - Bagon: pokemon/371-bagon.md
   - 372 - Shelgon: pokemon/372-shelgon.md
   - 373 - Salamence: pokemon/373-salamence.md
-  - 373 - Mega-salamence: pokemon/373-mega-salamence.md
   - 374 - Beldum: pokemon/374-beldum.md
   - 375 - Metang: pokemon/375-metang.md
   - 376 - Metagross: pokemon/376-metagross.md
-  - 376 - Mega-metagross: pokemon/376-mega-metagross.md
   - 377 - Regirock: pokemon/377-regirock.md
   - 378 - Regice: pokemon/378-regice.md
   - 379 - Registeel: pokemon/379-registeel.md
   - 380 - Latias: pokemon/380-latias.md
-  - 380 - Mega-latias: pokemon/380-mega-latias.md
   - 381 - Latios: pokemon/381-latios.md
-  - 381 - Mega-latios: pokemon/381-mega-latios.md
   - 382 - Kyogre: pokemon/382-kyogre.md
-  - 382 - Primal-kyogre: pokemon/382-primal-kyogre.md
   - 383 - Groudon: pokemon/383-groudon.md
-  - 383 - Mega-groudon: pokemon/383-mega-groudon.md
   - 384 - Rayquaza: pokemon/384-rayquaza.md
-  - 384 - Mega-rayquaza: pokemon/384-mega-rayquaza.md
   - 385 - Jirachi: pokemon/385-jirachi.md
   - 386 - Deoxys: pokemon/386-deoxys.md
   - 386 - Deoxys-attack: pokemon/386-deoxys-attack.md
@@ -467,9 +446,13 @@ nav:
   - 406 - Budew: pokemon/406-budew.md
   - 407 - Roserade: pokemon/407-roserade.md
   - 408 - Cranidos: pokemon/408-cranidos.md
+  - 408 - Ancient-cranidos: pokemon/408-ancient-cranidos.md
   - 409 - Rampardos: pokemon/409-rampardos.md
+  - 409 - Ancient-rampardos: pokemon/409-ancient-rampardos.md
   - 410 - Shieldon: pokemon/410-shieldon.md
+  - 410 - Ancient-shieldon: pokemon/410-ancient-shieldon.md
   - 411 - Bastiodon: pokemon/411-bastiodon.md
+  - 411 - Ancient-bastiodon: pokemon/411-ancient-bastiodon.md
   - 412 - Burmy: pokemon/412-burmy.md
   - 412 - Burmy-sandy: pokemon/412-burmy-sandy.md
   - 412 - Burmy-trash: pokemon/412-burmy-trash.md
@@ -491,7 +474,6 @@ nav:
   - 426 - Drifblim: pokemon/426-drifblim.md
   - 427 - Buneary: pokemon/427-buneary.md
   - 428 - Lopunny: pokemon/428-lopunny.md
-  - 428 - Mega-lopunny: pokemon/428-mega-lopunny.md
   - 429 - Mismagius: pokemon/429-mismagius.md
   - 430 - Honchkrow: pokemon/430-honchkrow.md
   - 431 - Glameow: pokemon/431-glameow.md
@@ -509,11 +491,9 @@ nav:
   - 443 - Gible: pokemon/443-gible.md
   - 444 - Gabite: pokemon/444-gabite.md
   - 445 - Garchomp: pokemon/445-garchomp.md
-  - 445 - Mega-garchomp: pokemon/445-mega-garchomp.md
   - 446 - Munchlax: pokemon/446-munchlax.md
   - 447 - Riolu: pokemon/447-riolu.md
   - 448 - Lucario: pokemon/448-lucario.md
-  - 448 - Mega-lucario: pokemon/448-mega-lucario.md
   - 449 - Hippopotas: pokemon/449-hippopotas.md
   - 450 - Hippowdon: pokemon/450-hippowdon.md
   - 451 - Skorupi: pokemon/451-skorupi.md
@@ -526,7 +506,6 @@ nav:
   - 458 - Mantyke: pokemon/458-mantyke.md
   - 459 - Snover: pokemon/459-snover.md
   - 460 - Abomasnow: pokemon/460-abomasnow.md
-  - 460 - Mega-abomasnow: pokemon/460-mega-abomasnow.md
   - 461 - Weavile: pokemon/461-weavile.md
   - 462 - Magnezone: pokemon/462-magnezone.md
   - 463 - Lickilicky: pokemon/463-lickilicky.md
@@ -542,7 +521,6 @@ nav:
   - 473 - Mamoswine: pokemon/473-mamoswine.md
   - 474 - Porygon-z: pokemon/474-porygon-z.md
   - 475 - Gallade: pokemon/475-gallade.md
-  - 475 - Mega-gallade: pokemon/475-mega-gallade.md
   - 476 - Probopass: pokemon/476-probopass.md
   - 477 - Dusknoir: pokemon/477-dusknoir.md
   - 478 - Froslass: pokemon/478-froslass.md
@@ -608,7 +586,6 @@ nav:
   - 529 - Drilbur: pokemon/529-drilbur.md
   - 530 - Excadrill: pokemon/530-excadrill.md
   - 531 - Audino: pokemon/531-audino.md
-  - 531 - Mega-audino: pokemon/531-mega-audino.md
   - 532 - Timburr: pokemon/532-timburr.md
   - 533 - Gurdurr: pokemon/533-gurdurr.md
   - 534 - Conkeldurr: pokemon/534-conkeldurr.md
@@ -642,9 +619,13 @@ nav:
   - 562 - Yamask: pokemon/562-yamask.md
   - 563 - Cofagrigus: pokemon/563-cofagrigus.md
   - 564 - Tirtouga: pokemon/564-tirtouga.md
+  - 564 - Ancient-tirtouga: pokemon/564-ancient-tirtouga.md
   - 565 - Carracosta: pokemon/565-carracosta.md
+  - 565 - Ancient-carracosta: pokemon/565-ancient-carracosta.md
   - 566 - Archen: pokemon/566-archen.md
+  - 566 - Ancient-archen: pokemon/566-ancient-archen.md
   - 567 - Archeops: pokemon/567-archeops.md
+  - 567 - Ancient-archeops: pokemon/567-ancient-archeops.md
   - 568 - Trubbish: pokemon/568-trubbish.md
   - 569 - Garbodor: pokemon/569-garbodor.md
   - 570 - Zorua: pokemon/570-zorua.md
@@ -726,7 +707,17 @@ nav:
   - 648 - Meloetta: pokemon/648-meloetta.md
   - 648 - Meloetta-pirouette: pokemon/648-meloetta-pirouette.md
   - 649 - Genesect: pokemon/649-genesect.md
+  - 696 - Ancient-tyrunt: pokemon/696-ancient-tyrunt.md
+  - 697 - Ancient-tyrantrum: pokemon/697-ancient-tyrantrum.md
+  - 698 - Ancient-amaura: pokemon/698-ancient-amaura.md
+  - 699 - Ancient-aurorus: pokemon/699-ancient-aurorus.md
+  - 802 - Marshadow: pokemon/802-marshadow.md
+  - 807 - Zeraora: pokemon/807-zeraora.md
+  - 808 - Meltan: pokemon/808-meltan.md
+  - 809 - Melmetal: pokemon/809-melmetal.md
   - 893 - Zarude: pokemon/893-zarude.md
+  - 894 - Regieleki: pokemon/894-regieleki.md
+  - 895 - Regidrago: pokemon/895-regidrago.md
 - Routes:
   - Vinview Town: routes/Vinview Town.md
   - Route 1: routes/Route 1.md

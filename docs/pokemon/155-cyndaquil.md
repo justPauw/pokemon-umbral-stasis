@@ -32,9 +32,9 @@
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">Attack</th>
-      <td style="border-top: none; width: 70px">52</td>
+      <td style="border-top: none; width: 70px">60</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 20%;" class="ranking-bar rank-3">
+        <div style="width: 23%;" class="ranking-bar rank-3">
         </div>
       </td>
     </tr>
@@ -48,9 +48,9 @@
     </tr>
     <tr style="display: flex; align-items: center;">
       <th style="color: #737373;">SP Attack</th>
-      <td style="border-top: none; width: 70px">60</td>
+      <td style="border-top: none; width: 70px">52</td>
       <td style="width: 100%; min-width: 450px; border-top: none;">
-        <div style="width: 23%;" class="ranking-bar rank-3">
+        <div style="width: 20%;" class="ranking-bar rank-3">
         </div>
       </td>
     </tr>
