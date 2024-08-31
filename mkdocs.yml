@@ -882,10 +882,9 @@ nav:
   - Route 4: routes/Route 4.md
   - Flairtooth Cave: routes/Flairtooth Cave.md
   - Route 5: routes/Route 5.md
-  - Baby Garden: routes/Baby Garden.md
-  - Blissful Garden: routes/Blissful Garden.md
-  - Entree Garden: routes/Entree Garden.md
-  - Flower Garden: routes/Flower Garden.md
+  - Baby Garden Central: routes/Baby Garden Central.md
+  - Baby Garden West: routes/Baby Garden West.md
+  - Baby Garden East: routes/Baby Garden East.md
   - Hauntill Town: routes/Hauntill Town.md
   - Ethereal Tower F2: routes/Ethereal Tower F2.md
   - Ethereal Tower F3: routes/Ethereal Tower F3.md
@@ -893,6 +892,8 @@ nav:
   - Ethereal Tower F5: routes/Ethereal Tower F5.md
   - Ethereal Tower F6: routes/Ethereal Tower F6.md
   - Route 6: routes/Route 6.md
+  - Atropine Woods: routes/Atropine Woods.md
+  - Deeper Atropine: routes/Deeper Atropine.md
   - Route 7: routes/Route 7.md
   - Scarlet Descent: routes/Scarlet Descent.md
   - Scarlet Descent 1F: routes/Scarlet Descent 1F.md
@@ -902,12 +903,6 @@ nav:
   - Flammah Town: routes/Flammah Town.md
   - Seapearl City: routes/Seapearl City.md
   - Route 10: routes/Route 10.md
-  - Route 11: routes/Route 11.md
-  - Baby Garden Central: routes/Baby Garden Central.md
-  - Baby Garden West: routes/Baby Garden West.md
-  - Baby Garden East: routes/Baby Garden East.md
-  - Atropine Woods: routes/Atropine Woods.md
-  - Deeper Atropine: routes/Deeper Atropine.md
   - Route 17: routes/Route 17.md
 plugins:
 - search:
