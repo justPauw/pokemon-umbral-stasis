@@ -104,6 +104,7 @@
 	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
 	| TM56 | Fling | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
 	| TM36 | Sludge-bomb | 90 | 100 | 10 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
+	| TM115 | Chilling-water | 50 | 100 | 20 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
 	| TM62 | Acrobatics | 55 | 100 | 15 | ![flying](../img/types/flying.png) | ![physical](../img/types/physical.png) |
 	| TR89 | Hurricane | 110 | 70 | 10 | ![flying](../img/types/flying.png) | ![special](../img/types/special.png) |
 	| TM08 | Body-slam | 85 | 100 | 15 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |

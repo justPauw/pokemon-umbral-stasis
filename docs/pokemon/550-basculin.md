@@ -104,6 +104,7 @@
         | -- | -- | -- | -- | -- | -- | -- |
         	| TM39 | Swift | 60 | - | 20 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
+	| TM115 | Chilling-water | 50 | 100 | 20 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
 	| TR69 | Zen-headbutt | 80 | 90 | 15 | ![psychic](../img/types/psychic.png) | ![physical](../img/types/physical.png) |
 	| TR98 | Liquidation | 85 | 100 | 10 | ![water](../img/types/water.png) | ![physical](../img/types/physical.png) |
 	| TM03 | Water-pulse | 60 | 100 | 20 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
@@ -116,7 +117,7 @@
 	| TR12 | Agility | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
 	| TM26 | Scary-face | - | 100 | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| TR32 | Crunch | 80 | 100 | 15 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
-	| TM67 | Ice-fang | 65 | 95 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
+	| TM128 | Ice-fang | 65 | 95 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
 	| TM55 | Ice-beam | 90 | 100 | 10 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
 	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| TM20 | Endure | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |

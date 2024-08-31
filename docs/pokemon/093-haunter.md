@@ -112,7 +112,7 @@
 	| TM87 | Swagger | - | 85 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| TM85 | Dream-eater | 100 | 100 | 15 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
 	| TM09 | Venoshock | 65 | 100 | 10 | ![poison](../img/types/poison.png) | ![special](../img/types/special.png) |
-	| TM31 | Fire-punch | 75 | 100 | 15 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
+	| TM135 | Fire-punch | 75 | 100 | 15 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
 	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
 	| TM56 | Fling | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
 	| TM84 | Poison-jab | 80 | 100 | 20 | ![poison](../img/types/poison.png) | ![physical](../img/types/physical.png) |
@@ -127,7 +127,7 @@
 	| TM41 | Torment | - | 100 | 15 | ![dark](../img/types/dark.png) | ![status](../img/types/status.png) |
 	| TM46 | Thief | 60 | 100 | 25 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
 	| TM29 | Psychic | 90 | 100 | 10 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| TM35 | Ice-punch | 75 | 100 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
+	| TM134 | Ice-punch | 75 | 100 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
 	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM92 | Trick-room | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
 	| TM21 | Frustration | - | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
@@ -138,7 +138,7 @@
 	| TM45 | Attract | - | 100 | 15 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
 	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM23 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
+	| TM136 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
 	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| TM64 | Explosion | 250 | 100 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |

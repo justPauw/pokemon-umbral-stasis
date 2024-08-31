@@ -124,7 +124,7 @@
 	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| TM16 | Light-screen | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
 	| TM72 | Volt-switch | 70 | 100 | 20 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| TM23 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
+	| TM136 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
 	| TM93 | Wild-charge | 90 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
 	| TM20 | Safeguard | - | - | 25 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |

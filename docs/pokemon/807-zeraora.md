@@ -105,7 +105,7 @@
         | -- | -- | -- | -- | -- | -- | -- |
         	| TM47 | Low-sweep | 65 | 100 | 20 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
 	| TM54 | False-swipe | 40 | 100 | 40 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM31 | Fire-punch | 75 | 100 | 15 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
+	| TM135 | Fire-punch | 75 | 100 | 15 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
 	| TM39 | Swift | 60 | - | 20 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
 	| TM56 | Fling | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
@@ -126,7 +126,7 @@
 	| TM42 | Revenge | 60 | 100 | 10 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
 	| TM01 | Mega-kick | 120 | 75 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 	| TM72 | Volt-switch | 70 | 100 | 20 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| TM23 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
+	| TM136 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
 	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |

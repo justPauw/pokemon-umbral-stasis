@@ -707,22 +707,166 @@ nav:
   - 648 - Meloetta: pokemon/648-meloetta.md
   - 648 - Meloetta-pirouette: pokemon/648-meloetta-pirouette.md
   - 649 - Genesect: pokemon/649-genesect.md
+  - 667 - Litleo: pokemon/667-litleo.md
+  - 668 - Pyroar: pokemon/668-pyroar.md
   - 696 - Ancient-tyrunt: pokemon/696-ancient-tyrunt.md
   - 697 - Ancient-tyrantrum: pokemon/697-ancient-tyrantrum.md
   - 698 - Ancient-amaura: pokemon/698-ancient-amaura.md
   - 699 - Ancient-aurorus: pokemon/699-ancient-aurorus.md
+  - 712 - Bergmite: pokemon/712-bergmite.md
+  - 713 - Avalugg: pokemon/713-avalugg.md
+  - 720 - Hoopa: pokemon/720-hoopa.md
+  - 720 - Hoopa-unbound: pokemon/720-hoopa-unbound.md
+  - 725 - Litten: pokemon/725-litten.md
+  - 726 - Torracat: pokemon/726-torracat.md
+  - 727 - Incineroar: pokemon/727-incineroar.md
+  - 740 - Crabominable: pokemon/740-crabominable.md
+  - 741 - Oricorio: pokemon/741-oricorio.md
+  - 741 - Oricorio-pau: pokemon/741-oricorio-pau.md
+  - 741 - Oricorio-sensu: pokemon/741-oricorio-sensu.md
+  - 741 - Oricorio-pom-pom: pokemon/741-oricorio-pom-pom.md
+  - 745 - Lycanroc: pokemon/745-lycanroc.md
+  - 745 - Lycanroc-midnight: pokemon/745-lycanroc-midnight.md
+  - 745 - Lycanroc-dusk: pokemon/745-lycanroc-dusk.md
+  - 773 - Silvally: pokemon/773-silvally.md
+  - 794 - Buzzwole: pokemon/794-buzzwole.md
+  - 796 - Xurkitree: pokemon/796-xurkitree.md
   - 802 - Marshadow: pokemon/802-marshadow.md
+  - 806 - Blacephalon: pokemon/806-blacephalon.md
   - 807 - Zeraora: pokemon/807-zeraora.md
   - 808 - Meltan: pokemon/808-meltan.md
   - 809 - Melmetal: pokemon/809-melmetal.md
+  - 813 - Scorbunny: pokemon/813-scorbunny.md
+  - 814 - Raboot: pokemon/814-raboot.md
+  - 815 - Cinderace: pokemon/815-cinderace.md
+  - 820 - Greedent: pokemon/820-greedent.md
+  - 828 - Thievul: pokemon/828-thievul.md
+  - 833 - Chewtle: pokemon/833-chewtle.md
+  - 834 - Drednaw: pokemon/834-drednaw.md
+  - 835 - Yamper: pokemon/835-yamper.md
+  - 836 - Boltund: pokemon/836-boltund.md
+  - 839 - Coalossal: pokemon/839-coalossal.md
+  - 844 - Sandaconda: pokemon/844-sandaconda.md
+  - 846 - Arrokuda: pokemon/846-arrokuda.md
+  - 847 - Barraskewda: pokemon/847-barraskewda.md
+  - 851 - Centiskorch: pokemon/851-centiskorch.md
+  - 852 - Clobbopus: pokemon/852-clobbopus.md
+  - 853 - Grapploct: pokemon/853-grapploct.md
+  - 861 - Grimmsnarl: pokemon/861-grimmsnarl.md
+  - 862 - Obstagoon: pokemon/862-obstagoon.md
+  - 866 - Mr-rime: pokemon/866-mr-rime.md
+  - 875 - Eiscue: pokemon/875-eiscue.md
+  - 875 - Eiscue-noice: pokemon/875-eiscue-noice.md
+  - 880 - Dracozolt: pokemon/880-dracozolt.md
+  - 881 - Arctozolt: pokemon/881-arctozolt.md
+  - 882 - Dracovish: pokemon/882-dracovish.md
+  - 883 - Arctovish: pokemon/883-arctovish.md
+  - 888 - Zacian: pokemon/888-zacian.md
+  - 888 - Zacian-crowned: pokemon/888-zacian-crowned.md
+  - 889 - Zamazenta: pokemon/889-zamazenta.md
+  - 889 - Zamazenta-crowned: pokemon/889-zamazenta-crowned.md
+  - 891 - Kubfu: pokemon/891-kubfu.md
+  - 892 - Urshifu: pokemon/892-urshifu.md
+  - 892 - Urshifu-rapid-strike: pokemon/892-urshifu-rapid-strike.md
   - 893 - Zarude: pokemon/893-zarude.md
   - 894 - Regieleki: pokemon/894-regieleki.md
   - 895 - Regidrago: pokemon/895-regidrago.md
+  - 898 - Calyrex: pokemon/898-calyrex.md
+  - 898 - Calyrex-ice-rider: pokemon/898-calyrex-ice-rider.md
+  - 898 - Calyrex-shadow-rider: pokemon/898-calyrex-shadow-rider.md
+  - 901 - Ursaluna: pokemon/901-ursaluna.md
+  - 903 - Sneasler: pokemon/903-sneasler.md
+  - 904 - Overqwil: pokemon/904-overqwil.md
+  - 906 - Sprigatito: pokemon/906-sprigatito.md
+  - 907 - Floragato: pokemon/907-floragato.md
+  - 908 - Meowscarada: pokemon/908-meowscarada.md
+  - 909 - Fuecoco: pokemon/909-fuecoco.md
+  - 910 - Crocalor: pokemon/910-crocalor.md
+  - 911 - Skeledirge: pokemon/911-skeledirge.md
+  - 912 - Quaxly: pokemon/912-quaxly.md
+  - 913 - Quaxwell: pokemon/913-quaxwell.md
+  - 914 - Quaquaval: pokemon/914-quaquaval.md
+  - 915 - Lechonk: pokemon/915-lechonk.md
+  - 916 - Oinkologne: pokemon/916-oinkologne.md
+  - 917 - Tarountula: pokemon/917-tarountula.md
+  - 918 - Spidops: pokemon/918-spidops.md
+  - 919 - Nymble: pokemon/919-nymble.md
+  - 920 - Lokix: pokemon/920-lokix.md
+  - 921 - Pawmi: pokemon/921-pawmi.md
+  - 922 - Pawmo: pokemon/922-pawmo.md
+  - 923 - Pawmot: pokemon/923-pawmot.md
+  - 925 - Maushold: pokemon/925-maushold.md
+  - 926 - Fidough: pokemon/926-fidough.md
+  - 927 - Dachsbun: pokemon/927-dachsbun.md
+  - 931 - Squawkabilly: pokemon/931-squawkabilly.md
+  - 934 - Garganacl: pokemon/934-garganacl.md
+  - 938 - Tadbulb: pokemon/938-tadbulb.md
+  - 939 - Bellibolt: pokemon/939-bellibolt.md
+  - 942 - Maschiff: pokemon/942-maschiff.md
+  - 943 - Mabosstiff: pokemon/943-mabosstiff.md
+  - 944 - Shroodle: pokemon/944-shroodle.md
+  - 945 - Grafaiai: pokemon/945-grafaiai.md
+  - 950 - Klawf: pokemon/950-klawf.md
+  - 951 - Capsakid: pokemon/951-capsakid.md
+  - 952 - Scovillain: pokemon/952-scovillain.md
+  - 953 - Rellor: pokemon/953-rellor.md
+  - 954 - Rabsca: pokemon/954-rabsca.md
+  - 955 - Flittle: pokemon/955-flittle.md
+  - 956 - Espathra: pokemon/956-espathra.md
+  - 957 - Tinkatink: pokemon/957-tinkatink.md
+  - 958 - Tinkatuff: pokemon/958-tinkatuff.md
+  - 959 - Tinkaton: pokemon/959-tinkaton.md
+  - 960 - Wiglett: pokemon/960-wiglett.md
+  - 961 - Wugtrio: pokemon/961-wugtrio.md
+  - 963 - Finizen: pokemon/963-finizen.md
+  - 964 - Palafin: pokemon/964-palafin.md
+  - 964 - Palafin-hero: pokemon/964-palafin-hero.md
+  - 967 - Cyclizar: pokemon/967-cyclizar.md
+  - 971 - Greavard: pokemon/971-greavard.md
+  - 972 - Houndstone: pokemon/972-houndstone.md
+  - 973 - Flamigo: pokemon/973-flamigo.md
+  - 974 - Cetoddle: pokemon/974-cetoddle.md
+  - 975 - Cetitan: pokemon/975-cetitan.md
+  - 976 - Veluza: pokemon/976-veluza.md
+  - 977 - Dondozo: pokemon/977-dondozo.md
+  - 978 - Tatsugiri: pokemon/978-tatsugiri.md
+  - 979 - Annihilape: pokemon/979-annihilape.md
+  - 980 - Clodsire: pokemon/980-clodsire.md
+  - 981 - Farigiraf: pokemon/981-farigiraf.md
+  - 982 - Dudunsparce: pokemon/982-dudunsparce.md
+  - 984 - Great-tusk: pokemon/984-great-tusk.md
+  - 985 - Scream-tail: pokemon/985-scream-tail.md
+  - 988 - Slither-wing: pokemon/988-slither-wing.md
+  - 990 - Iron-treads: pokemon/990-iron-treads.md
+  - 991 - Iron-bundle: pokemon/991-iron-bundle.md
+  - 992 - Iron-hands: pokemon/992-iron-hands.md
+  - 993 - Iron-jugulis: pokemon/993-iron-jugulis.md
+  - 994 - Iron-moth: pokemon/994-iron-moth.md
+  - 995 - Iron-thorns: pokemon/995-iron-thorns.md
+  - 996 - Frigibax: pokemon/996-frigibax.md
+  - 997 - Arctibax: pokemon/997-arctibax.md
+  - 998 - Baxcalibur: pokemon/998-baxcalibur.md
+  - 1000 - Gholdengo: pokemon/1000-gholdengo.md
+  - 1002 - Chien-pao: pokemon/1002-chien-pao.md
+  - 1005 - Roaring-moon: pokemon/1005-roaring-moon.md
+  - 1006 - Iron-valiant: pokemon/1006-iron-valiant.md
+  - 1007 - Koraidon: pokemon/1007-koraidon.md
+  - 1009 - Walking-wake: pokemon/1009-walking-wake.md
+  - 1010 - Iron-leaves: pokemon/1010-iron-leaves.md
+  - 1011 - Dipplin: pokemon/1011-dipplin.md
+  - 1014 - Okidogi: pokemon/1014-okidogi.md
+  - 1015 - Munkidori: pokemon/1015-munkidori.md
+  - 1017 - Ogerpon: pokemon/1017-ogerpon.md
+  - 1019 - Hydrapple: pokemon/1019-hydrapple.md
+  - 1020 - Gouging-fire: pokemon/1020-gouging-fire.md
+  - 1021 - Raging-bolt: pokemon/1021-raging-bolt.md
+  - 1024 - Terapagos: pokemon/1024-terapagos.md
 - Routes:
   - Vinview Town: routes/Vinview Town.md
   - Route 1: routes/Route 1.md
   - Darkroot Forest: routes/Darkroot Forest.md
   - Deeper Darkroot: routes/Deeper Darkroot.md
+  - Brightroot Clearing: routes/Brightroot Clearing.md
   - Sowset Town: routes/Sowset Town.md
   - Route 2: routes/Route 2.md
   - Rubble Cave 1F: routes/Rubble Cave 1F.md
@@ -743,6 +887,28 @@ nav:
   - Entree Garden: routes/Entree Garden.md
   - Flower Garden: routes/Flower Garden.md
   - Hauntill Town: routes/Hauntill Town.md
+  - Ethereal Tower F2: routes/Ethereal Tower F2.md
+  - Ethereal Tower F3: routes/Ethereal Tower F3.md
+  - Ethereal Tower F4: routes/Ethereal Tower F4.md
+  - Ethereal Tower F5: routes/Ethereal Tower F5.md
+  - Ethereal Tower F6: routes/Ethereal Tower F6.md
+  - Route 6: routes/Route 6.md
+  - Route 7: routes/Route 7.md
+  - Scarlet Descent: routes/Scarlet Descent.md
+  - Scarlet Descent 1F: routes/Scarlet Descent 1F.md
+  - Scarlet Descent B1F: routes/Scarlet Descent B1F.md
+  - Scarlet Descent B2F: routes/Scarlet Descent B2F.md
+  - Scarlet Descent B3F: routes/Scarlet Descent B3F.md
+  - Flammah Town: routes/Flammah Town.md
+  - Seapearl City: routes/Seapearl City.md
+  - Route 10: routes/Route 10.md
+  - Route 11: routes/Route 11.md
+  - Baby Garden Central: routes/Baby Garden Central.md
+  - Baby Garden West: routes/Baby Garden West.md
+  - Baby Garden East: routes/Baby Garden East.md
+  - Atropine Woods: routes/Atropine Woods.md
+  - Deeper Atropine: routes/Deeper Atropine.md
+  - Route 17: routes/Route 17.md
 plugins:
 - search:
     lang: en

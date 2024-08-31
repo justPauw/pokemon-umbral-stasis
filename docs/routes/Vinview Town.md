@@ -1,4 +1,4 @@
-
+<img src="../../img/routes/Vinview Town.png" alt="Vinview Town"/>
 
 === "Wild Encounters"
 

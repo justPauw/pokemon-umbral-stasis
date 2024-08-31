@@ -97,7 +97,8 @@
 === "Machine Moves"
     | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
         | -- | -- | -- | -- | -- | -- | -- |
-        	| TM19 | Giga-drain | 75 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
+        	| TM114 | Trailblaze | 50 | 100 | 20 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
+	| TM19 | Giga-drain | 75 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
 	| TM39 | Swift | 60 | - | 20 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
 	| TR67 | Earth-power | 90 | 100 | 10 | ![ground](../img/types/ground.png) | ![special](../img/types/special.png) |

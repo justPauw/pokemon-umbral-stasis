@@ -103,13 +103,13 @@
 	| TM13 | Snore | 50 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM39 | Rock-tomb | 60 | 95 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
 	| TM13 | Brick-break | 75 | 100 | 15 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
-	| TM35 | Ice-punch | 75 | 100 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
+	| TM134 | Ice-punch | 75 | 100 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
 	| TM00 | Mega-punch | 80 | 85 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 	| TM90 | Electric-terrain | - | - | 10 | ![electric](../img/types/electric.png) | ![status](../img/types/status.png) |
 	| TM45 | Solar-beam | 120 | 100 | 10 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
 	| TM59 | Brutal-swing | 60 | 100 | 20 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
 	| TM01 | Mega-kick | 120 | 75 | 5 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
-	| TM23 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
+	| TM136 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
 	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| TM12 | Facade | 70 | 100 | 20 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |

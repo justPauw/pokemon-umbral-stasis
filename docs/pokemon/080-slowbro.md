@@ -123,7 +123,7 @@
 	| TM38 | Fire-blast | 110 | 85 | 5 | ![fire](../img/types/fire.png) | ![special](../img/types/special.png) |
 	| TM86 | Grass-knot | - | 100 | 20 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
 	| TM29 | Psychic | 90 | 100 | 10 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| TM35 | Ice-punch | 75 | 100 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
+	| TM134 | Ice-punch | 75 | 100 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
 	| TM07 | Hail | - | - | 10 | ![ice](../img/types/ice.png) | ![status](../img/types/status.png) |
 	| TM10 | Hidden-power | 60 | 100 | 15 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM92 | Trick-room | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |

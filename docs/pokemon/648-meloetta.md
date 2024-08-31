@@ -99,7 +99,7 @@
         | -- | -- | -- | -- | -- | -- | -- |
         	| TM47 | Low-sweep | 65 | 100 | 20 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
 	| TM36 | Thunderbolt | 90 | 100 | 15 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
-	| TM31 | Fire-punch | 75 | 100 | 15 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
+	| TM135 | Fire-punch | 75 | 100 | 15 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
 	| TM39 | Swift | 60 | - | 20 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
 	| TM56 | Fling | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
@@ -118,7 +118,7 @@
 	| TR53 | Close-combat | 120 | 100 | 5 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
 	| TM86 | Grass-knot | - | 100 | 20 | ![grass](../img/types/grass.png) | ![special](../img/types/special.png) |
 	| TM29 | Psychic | 90 | 100 | 10 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
-	| TM35 | Ice-punch | 75 | 100 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
+	| TM134 | Ice-punch | 75 | 100 | 15 | ![ice](../img/types/ice.png) | ![physical](../img/types/physical.png) |
 	| TM92 | Trick-room | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
 	| TM48 | Skill-swap | - | - | 10 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
 	| TM03 | Helping-hand | - | - | 20 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
@@ -131,7 +131,7 @@
 	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
 	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| TM16 | Light-screen | - | - | 30 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
-	| TM23 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
+	| TM136 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
 	| TM20 | Endure | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
 	| TR07 | Low-kick | - | 100 | 20 | ![fighting](../img/types/fighting.png) | ![physical](../img/types/physical.png) |
 	| TR42 | Hyper-voice | 90 | 100 | 10 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |

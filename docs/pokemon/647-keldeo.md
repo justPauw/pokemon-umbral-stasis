@@ -98,11 +98,13 @@
 === "Machine Moves"
     | Machine | Name | Power | Accuracy | PP | Type | Damage Class |
         | -- | -- | -- | -- | -- | -- | -- |
-        	| TR45 | Muddy-water | 90 | 85 | 10 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
+        	| TM114 | Trailblaze | 50 | 100 | 20 | ![grass](../img/types/grass.png) | ![physical](../img/types/physical.png) |
+	| TR45 | Muddy-water | 90 | 85 | 10 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
 	| TM54 | False-swipe | 40 | 100 | 40 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 	| TM39 | Swift | 60 | - | 20 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
 	| TM84 | Poison-jab | 80 | 100 | 20 | ![poison](../img/types/poison.png) | ![physical](../img/types/physical.png) |
+	| TM115 | Chilling-water | 50 | 100 | 20 | ![water](../img/types/water.png) | ![special](../img/types/special.png) |
 	| TM67 | Smart-strike | 70 | - | 10 | ![steel](../img/types/steel.png) | ![physical](../img/types/physical.png) |
 	| TR98 | Liquidation | 85 | 100 | 10 | ![water](../img/types/water.png) | ![physical](../img/types/physical.png) |
 	| TM04 | Calm-mind | - | - | 20 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |

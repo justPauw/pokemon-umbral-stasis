@@ -118,7 +118,7 @@
 	| TM85 | Dream-eater | 100 | 100 | 15 | ![psychic](../img/types/psychic.png) | ![special](../img/types/special.png) |
 	| TM54 | False-swipe | 40 | 100 | 40 | ![normal](../img/types/normal.png) | ![physical](../img/types/physical.png) |
 	| TM23 | Smack-down | 50 | 100 | 15 | ![rock](../img/types/rock.png) | ![physical](../img/types/physical.png) |
-	| TM31 | Fire-punch | 75 | 100 | 15 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
+	| TM135 | Fire-punch | 75 | 100 | 15 | ![fire](../img/types/fire.png) | ![physical](../img/types/physical.png) |
 	| TM05 | Rest | - | - | 5 | ![psychic](../img/types/psychic.png) | ![status](../img/types/status.png) |
 	| TM56 | Fling | - | 100 | 10 | ![dark](../img/types/dark.png) | ![physical](../img/types/physical.png) |
 	| TM38 | Thunder | 110 | 70 | 10 | ![electric](../img/types/electric.png) | ![special](../img/types/special.png) |
@@ -148,7 +148,7 @@
 	| TM55 | Ice-beam | 90 | 100 | 10 | ![ice](../img/types/ice.png) | ![special](../img/types/special.png) |
 	| TM11 | Sunny-day | - | - | 5 | ![fire](../img/types/fire.png) | ![status](../img/types/status.png) |
 	| TM08 | Substitute | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
-	| TM23 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
+	| TM136 | Thunder-punch | 75 | 100 | 15 | ![electric](../img/types/electric.png) | ![physical](../img/types/physical.png) |
 	| TM39 | Outrage | 120 | 100 | 10 | ![dragon](../img/types/dragon.png) | ![physical](../img/types/physical.png) |
 	| TM48 | Hyper-beam | 150 | 90 | 5 | ![normal](../img/types/normal.png) | ![special](../img/types/special.png) |
 	| TM07 | Protect | - | - | 10 | ![normal](../img/types/normal.png) | ![status](../img/types/status.png) |
