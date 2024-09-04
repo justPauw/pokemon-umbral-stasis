@@ -10,4 +10,5 @@
 | Dry Ice | Restores HP if hit by a Ice-type move. |
 | Hardened Body | Halves the damage from physical moves. |
 | Engulfed | Normal-type moves become Fire-type and powered up. |
+| Blackout | Psychic-type moves become Dark-type and powered up. |
 

@@ -5,5 +5,4 @@
 | ![Leader's Crest](img/items/Leader's Crest.png)<br/>Leader's Crest | A shard of what appears to be an old blade of some sort. It is held only by a head of certain Pokémon group. |
 | ![Link Cord](img/items/Link Cord.png)<br/>Link Cord | A peculiary weird cable created by Bill that seems to make certain Pokémon evolve. |
 | ![Joy Stone](img/items/Joy Stone.png)<br/>Joy Stone | A peculiar stone that makes certain species of Pokémon evolve. It radiates joyous emotions. |
-| ![Go-Goggles](img/items/Go-Goggles.png)<br/>Go Goggles | Nifty goggles that protect eyes from desert sandstorms. |
 
