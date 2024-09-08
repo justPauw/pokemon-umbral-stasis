@@ -25,7 +25,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![poliwag](../../img/pokemon/poliwag.png) [Poliwag](/pokemon-umbral-stasis/pokemon/060-poliwag) 20%
                 </div><div style="display: grid; justify-items: center">
-                    ![tympole](../../img/pokemon/tympole.png) [Tympole](/pokemon-umbral-stasis/pokemon/551-tympole) 10%
+                    ![tympole](../../img/pokemon/tympole.png) [Tympole](/pokemon-umbral-stasis/pokemon/535-tympole) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![feebas](../../img/pokemon/feebas.png) [Feebas](/pokemon-umbral-stasis/pokemon/349-feebas) 5%
                 </div></div>
@@ -36,14 +36,14 @@
                 </div><div style="display: grid; justify-items: center">
                     ![poliwag](../../img/pokemon/poliwag.png) [Poliwag](/pokemon-umbral-stasis/pokemon/060-poliwag) 25%
                 </div><div style="display: grid; justify-items: center">
-                    ![tympole](../../img/pokemon/tympole.png) [Tympole](/pokemon-umbral-stasis/pokemon/551-tympole) 20%
+                    ![tympole](../../img/pokemon/tympole.png) [Tympole](/pokemon-umbral-stasis/pokemon/535-tympole) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![feebas](../../img/pokemon/feebas.png) [Feebas](/pokemon-umbral-stasis/pokemon/349-feebas) 15%
                 </div></div>
 
 	???+ note "Special Lv. 30"
 		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
-                    ![rotom](../../img/pokemon/rotom.png) [Rotom](/pokemon-umbral-stasis/pokemon/486-rotom) 100%
+                    ![rotom](../../img/pokemon/rotom.png) [Rotom](/pokemon-umbral-stasis/pokemon/479-rotom) 100%
                 </div></div>
 
 

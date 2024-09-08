@@ -9,11 +9,11 @@
                 </div><div style="display: grid; justify-items: center">
                     ![jigglypuff](../../img/pokemon/jigglypuff.png) [Jigglypuff](/pokemon-umbral-stasis/pokemon/039-jigglypuff) 25%
                 </div><div style="display: grid; justify-items: center">
-                    ![lillipup](../../img/pokemon/lillipup.png) [Lillipup](/pokemon-umbral-stasis/pokemon/522-lillipup) 17%
+                    ![lillipup](../../img/pokemon/lillipup.png) [Lillipup](/pokemon-umbral-stasis/pokemon/506-lillipup) 17%
                 </div><div style="display: grid; justify-items: center">
                     ![abra](../../img/pokemon/abra.png) [Abra](/pokemon-umbral-stasis/pokemon/063-abra) 13%
                 </div><div style="display: grid; justify-items: center">
-                    ![shinx](../../img/pokemon/shinx.png) [Shinx](/pokemon-umbral-stasis/pokemon/406-shinx) 10%
+                    ![shinx](../../img/pokemon/shinx.png) [Shinx](/pokemon-umbral-stasis/pokemon/403-shinx) 10%
                 </div><div style="display: grid; justify-items: center">
                     ![spoink](../../img/pokemon/spoink.png) [Spoink](/pokemon-umbral-stasis/pokemon/325-spoink) 5%
                 </div></div>

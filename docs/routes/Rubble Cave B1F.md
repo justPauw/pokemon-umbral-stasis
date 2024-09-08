@@ -13,7 +13,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![onix](../../img/pokemon/onix.png) [Onix](/pokemon-umbral-stasis/pokemon/095-onix) 15%
                 </div><div style="display: grid; justify-items: center">
-                    ![drilbur](../../img/pokemon/drilbur.png) [Drilbur](/pokemon-umbral-stasis/pokemon/545-drilbur) 5%
+                    ![drilbur](../../img/pokemon/drilbur.png) [Drilbur](/pokemon-umbral-stasis/pokemon/529-drilbur) 5%
                 </div></div>
 
 

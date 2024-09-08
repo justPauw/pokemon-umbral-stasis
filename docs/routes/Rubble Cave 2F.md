@@ -9,7 +9,7 @@
                 </div><div style="display: grid; justify-items: center">
                     ![geodude](../../img/pokemon/geodude.png) [Geodude](/pokemon-umbral-stasis/pokemon/074-geodude) 20%
                 </div><div style="display: grid; justify-items: center">
-                    ![roggenrola](../../img/pokemon/roggenrola.png) [Roggenrola](/pokemon-umbral-stasis/pokemon/540-roggenrola) 20%
+                    ![roggenrola](../../img/pokemon/roggenrola.png) [Roggenrola](/pokemon-umbral-stasis/pokemon/524-roggenrola) 20%
                 </div><div style="display: grid; justify-items: center">
                     ![machop](../../img/pokemon/machop.png) [Machop](/pokemon-umbral-stasis/pokemon/066-machop) 10%
                 </div><div style="display: grid; justify-items: center">

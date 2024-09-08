@@ -5,15 +5,15 @@
 
 	???+ note "Grass Lv. 4-6"
 		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
-                    ![starly](../../img/pokemon/starly.png) [Starly](/pokemon-umbral-stasis/pokemon/399-starly) 22%
+                    ![pidgey](../../img/pokemon/pidgey.png) [Pidgey](/pokemon-umbral-stasis/pokemon/001-pidgey) 22%
                 </div><div style="display: grid; justify-items: center">
-                    ![zigzagoon](../../img/pokemon/zigzagoon.png) [Zigzagoon](/pokemon-umbral-stasis/pokemon/263-zigzagoon) 22%
+                    ![sentret](../../img/pokemon/sentret.png) [Sentret](/pokemon-umbral-stasis/pokemon/011-sentret) 22%
                 </div><div style="display: grid; justify-items: center">
-                    ![sentret](../../img/pokemon/sentret.png) [Sentret](/pokemon-umbral-stasis/pokemon/161-sentret) 22%
+                    ![zigzagoon](../../img/pokemon/zigzagoon.png) [Zigzagoon](/pokemon-umbral-stasis/pokemon/004-zigzagoon) 22%
                 </div><div style="display: grid; justify-items: center">
-                    ![pidgey](../../img/pokemon/pidgey.png) [Pidgey](/pokemon-umbral-stasis/pokemon/016-pidgey) 22%
+                    ![starly](../../img/pokemon/starly.png) [Starly](/pokemon-umbral-stasis/pokemon/006-starly) 22%
                 </div><div style="display: grid; justify-items: center">
-                    ![buneary](../../img/pokemon/buneary.png) [Buneary](/pokemon-umbral-stasis/pokemon/434-buneary) 12%
+                    ![buneary](../../img/pokemon/buneary.png) [Buneary](/pokemon-umbral-stasis/pokemon/015-buneary) 12%
                 </div></div>
 
 === "Trainer Encounters"

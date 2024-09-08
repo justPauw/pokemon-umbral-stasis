@@ -8,7 +8,7 @@ theme:
   features:
   - content.tabls.links
   - content.tooltips
-  favicon: img/items/poke-ball.png
+  favicon: img/items/premier-ball.png
   palette:
   - media: '(prefers-color-scheme: light)'
     primary: black
@@ -18,7 +18,7 @@ theme:
       name: Switch to dark mode
   - media: '(prefers-color-scheme: dark)'
     primary: black
-    scheme: default
+    scheme: slate
     toggle:
       icon: material/eye
       name: Switch to light mode
@@ -43,6 +43,7 @@ nav:
   - 013 - Rattata: pokemon/013-rattata.md
   - 014 - Raticate: pokemon/014-raticate.md
   - 015 - Buneary: pokemon/015-buneary.md
+  - 016 - Umbral-lopunny: pokemon/016-umbral-lopunny.md
   - 016 - Lopunny: pokemon/016-lopunny.md
   - 017 - Caterpie: pokemon/017-caterpie.md
   - 018 - Metapod: pokemon/018-metapod.md
@@ -70,10 +71,12 @@ nav:
   - 040 - Spinarak: pokemon/040-spinarak.md
   - 041 - Ariados: pokemon/041-ariados.md
   - 042 - Poochyena: pokemon/042-poochyena.md
+  - 043 - Umbral-mightyena: pokemon/043-umbral-mightyena.md
   - 043 - Mightyena: pokemon/043-mightyena.md
   - 044 - Hoothoot: pokemon/044-hoothoot.md
   - 045 - Noctowl: pokemon/045-noctowl.md
   - 046 - Cottonee: pokemon/046-cottonee.md
+  - 047 - Umbral-whimsicott: pokemon/047-umbral-whimsicott.md
   - 047 - Whimsicott: pokemon/047-whimsicott.md
   - 048 - Venipede: pokemon/048-venipede.md
   - 049 - Whirlipede: pokemon/049-whirlipede.md
