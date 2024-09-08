@@ -2,512 +2,537 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/ability_changes/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/item_changes/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/item_locations/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/001-pidgey/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/002-pidgeotto/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/003-pidgeot/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/004-zigzagoon/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/005-linoone/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/006-starly/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/007-staravia/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/008-staraptor/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/009-taillow/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/010-swellow/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/011-sentret/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/012-furret/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/013-rattata/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/014-raticate/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/015-buneary/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/016-lopunny/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/016-umbral-lopunny/</loc>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/017-caterpie/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/018-metapod/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/019-butterfree/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/020-weedle/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/021-kakuna/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/022-beedrill/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/023-wurmple/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/024-silcoon/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/025-beautifly/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/026-cascoon/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/027-dustox/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/028-panpour/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/029-simipour/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/030-pansage/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/031-simisage/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/032-pansear/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/033-simisear/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/034-paras/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/035-parasect/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/036-ekans/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/037-arbok/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/038-stunky/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/039-skuntank/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/040-spinarak/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/041-ariados/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/042-poochyena/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/043-mightyena/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/043-umbral-mightyena/</loc>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/044-hoothoot/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/045-noctowl/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/046-cottonee/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/047-umbral-whimsicott/</loc>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/047-whimsicott/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/048-venipede/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/049-whirlipede/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/050-scolipede/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/349-feebas/</loc>
+         <lastmod>2024-09-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://justpauw.github.io/pokemon-umbral-stasis/pokemon/350-milotic/</loc>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Atropine%20Woods/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Baby%20Garden%20Central/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Baby%20Garden%20East/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Baby%20Garden%20West/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Brightroot%20Clearing/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Darkroot%20Forest/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Deeper%20Atropine/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Deeper%20Darkroot/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Entree%20Garden%20Central/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Entree%20Garden%20East/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Entree%20Garden%20North/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Entree%20Garden%20West/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Ethereal%20Tower%20F2/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Ethereal%20Tower%20F3/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Ethereal%20Tower%20F4/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Ethereal%20Tower%20F5/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Ethereal%20Tower%20F6/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Flairtooth%20Cave/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Flammah%20Town/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Flower%20Garden/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Hauntill%20Town/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Lake%20Sinew/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Lakeview%20Tunnel/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Oradea%20Town/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Route%201/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Route%2010/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Route%2011/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Route%2017/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Route%202/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Route%203/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Route%204/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Route%205/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Route%206/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Route%207/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Rubble%20Cave%201F/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Rubble%20Cave%202F/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Rubble%20Cave%203F/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Rubble%20Cave%20B1F/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Scarlet%20Descent%201F/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Scarlet%20Descent%20B1F/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Scarlet%20Descent%20B2F/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Scarlet%20Descent%20B3F/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Scarlet%20Descent/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Seapearl%20City/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Southern%20Oradea/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Sowset%20Town/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Tinspire%20City/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://justpauw.github.io/pokemon-umbral-stasis/routes/Vinview%20Town/</loc>
-         <lastmod>2024-09-06</lastmod>
+         <lastmod>2024-09-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
