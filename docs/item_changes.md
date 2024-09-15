@@ -19,4 +19,7 @@
 | ![Climbing Gear](img/items/Climbing Gear.png)<br/>Climbing Gear | This can be used to climb big ledges. |
 | ![Ice Pick](img/items/Ice Pick.png)<br/>Ice Pick | This can be used on ice barriers to break at ease. |
 | ![Ranger Badge](img/items/Ranger Badge.png)<br/>Ranger Badge | A Badge to prove you are part of the Pokémon Ranger Club. |
+| ![Thunder Wing](img/items/Thunder Wing.png)<br/>Thunder Wing | A wing infused with the electrical energy of Raikou. |
+| ![Inferno Wing](img/items/Inferno Wing.png)<br/>Inferno Wing | A wing infused with the flaming energy of Entei. |
+| ![Borealis Wing](img/items/Borealis Wing.png)<br/>Borealis Wing | A wing infused with the pure energy of Suicune. |
 

@@ -16,5 +16,10 @@
                     ![shuppet](../../img/pokemon/shuppet.png) [Shuppet](/pokemon-umbral-stasis/pokemon/353-shuppet) 20%
                 </div></div>
 
+	???+ note "Special Lv. 25"
+		<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;"><div style="display: grid; justify-items: center">
+                    ![shuppet](../../img/pokemon/shuppet.png) [Shuppet](/pokemon-umbral-stasis/pokemon/353-shuppet) 100%
+                </div></div>
+
 
 
