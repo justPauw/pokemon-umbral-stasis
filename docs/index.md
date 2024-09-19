@@ -141,12 +141,28 @@ This is what im currently working on, or towards.
 
 === "Updates"
 
-    !!! example "Alpha Testing"
-        The game is currently in Alpha Testing. Only selected people are able to do testing.
+    !!! example "Alpha Testing v1"
+        The game is currently in Alpha Testing. Only selected people are able to do testing.  
+
+        * The game is in a playable state up until the 5th Gym.
+        * Story progression post Mt. Joule is locked.
+        * Completed Friendship Garden.
+        * Added Primal Vivarium. 
+        * Added Simian Grove.
+        * Added Codex.
 
 === "FAQ"
     !!! question "Where can I download the game?"
         You can download the game at (link coming).
+
+    !!! question "How do I play the game?"
+        After downloading the game, extract the .ZIP file and launch the Game Application.
+
+    !!! question "Will you add Generation 6+ or Gimmick forms?"
+        No, it would not make much sense to how the story goes.
+
+    !!! question "How do I evolve Trade Evolutions?"
+        Once you meet Bill in Route 11, you can purchase Link Cord's, an evolution item that works like Elemental Stones.
 
     !!! question "How did you make Pokémon Umbral Stasis?"
         With the use of [RPG Maker XP](https://store.steampowered.com/app/235900/RPG_Maker_XP/) and [Pokémon Essentials](https://eeveeexpo.com/essentials/).
@@ -154,3 +170,77 @@ This is what im currently working on, or towards.
 
     !!! question "How did you make this site?"
         With the use of [WikiGen](https://github.com/AkeemAllen/WikiGen/releases), a tool used to create Pokémon Wiki's. You can also join the [Discord](https://discord.gg/qrs2M3eeqj) if you have questions.
+
+    ??? danger "𝓖𝓐𝕞𝐞 乃ʳ𝕖αķ𝓔𝕣"
+        So you've found the Game Breaker Codes. 
+
+        As the name entail, these are Cheat Codes. Find Codex in Sowset Town to redeem them, and they can be redeemed multiple times. All Pokémon will be 6IV, Preferred Nature & Ability, and will be set to Level 1. The items and Poké Balls will be given in quantities of 100 per use. 
+
+        === "Pokémon"
+
+            Grass Starter
+
+            - 19201 - Bulbasaur
+            - 19202 - Chikorita
+            - 19203 - Treecko
+            - 19204 - Turtwig
+            - 19205 - Snivy
+
+            Fire Starter
+
+            - 19301 - Charmander
+            - 19302 - Cyndaquil
+            - 19303 - Torchic
+            - 19304 - Chimchar
+            - 19305 - Tepig
+
+            Water Starter
+
+            - 19401 - Squirtle
+            - 19402 - Totodile
+            - 19403 - Mudkip
+            - 19404 - Piplup
+            - 19405 - Oshawott
+
+            Other Pokémon
+
+            - 19501 - ??
+            - 19502 - ??
+            - 19503 - ??
+            - 19504 - ??
+            - 19505 - ??
+
+        === "Pokéballs"
+            - 53450 - Poké Balls
+            - 53451 - Great Balls
+            - 53452 - Ultra Balls
+            - 53500 - Master Balls
+
+        === "Items"
+
+            - 36101 - X
+            - 36102 - X
+            - 36103 - X
+            - 36104 - X
+            - 36105 - X
+            - 36106 - X
+            - 36107 - X
+            - 36108 - X
+            - 36109 - X
+            - 36110 - X
+
+        === "Currency"
+
+            Money
+
+            - 90009 - 50,000
+            - 90099 - 100,000
+            - 90999 - 250,000
+            - 99999 - 500,000
+
+            ???
+
+            - 70007 - 100,000
+            - 70077 - 250,000
+            - 70777 - 500,000
+            - 77777 - 1,000,000
