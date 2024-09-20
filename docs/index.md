@@ -174,7 +174,7 @@ This is what im currently working on, or towards.
     ??? danger "𝓖𝓐𝕞𝐞 乃ʳ𝕖αķ𝓔𝕣"
         So you've found the Game Breaker Codes. 
 
-        As the name entail, these are Cheat Codes. Find Codex in Sowset Town to redeem them, and they can be redeemed multiple times. All Pokémon will be 6IV, Preferred Nature & Ability, and will be set to Level 1. The items and Poké Balls will be given in quantities of 100 per use. 
+        As the name entail, these are Cheat Codes. Find Codex in Sowset Town to redeem them, and they can be redeemed multiple times. All Pokémon will be 6IV, Preferred offensive Nature & Ability, and will be set to Level 1. The items and Poké Balls will be given in quantities of 100 per use. 
 
         === "Pokémon"
 
@@ -204,30 +204,67 @@ This is what im currently working on, or towards.
 
             Other Pokémon
 
-            - 19501 - ??
-            - 19502 - ??
-            - 19503 - ??
-            - 19504 - ??
-            - 19505 - ??
+            - 19501 - Feebas (Max Beauty)
+            - 19502 - Eevee (Shiny)
+            - 19503 - Dratini (Shiny)
+            - 19504 - Beldum (Shiny)
+            - 19600 - Kubfu (Single Strike)
+            - 19700 - Kubfu (Rapid Strike)
 
         === "Pokéballs"
+
+            Standard Pokéballs
+
             - 53450 - Poké Balls
             - 53451 - Great Balls
             - 53452 - Ultra Balls
             - 53500 - Master Balls
 
+            Unique Pokéballs
+
+            - 53601 - Dive Ball
+            - 53602 - Dream Ball
+            - 53603 - Dusk Ball
+            - 53604 - Fast Ball
+            - 53605 - Friend Ball
+            - 53606 - Heal Ball
+            - 53607 - Heavy Ball
+            - 53608 - Level Ball
+            - 53609 - Love Ball
+            - 53610 - Lure Ball
+            - 53611 - Luxury Ball
+            - 53612 - Moon Ball
+            - 53613 - Nest Ball
+            - 53614 - Net Ball
+            - 53615 - Premier Ball
+            - 53616 - Quick Ball
+            - 53617 - Repeat Ball
+            - 53618 - Timer ball
+
+            Special Pokéballs
+
+            - 53701 - Cherish Ball
+            - 53702 - Beast Ball
+            - 53703 - Safari Ball (Will be removed after leaving Safari Zone)
+            - 53704 - Sport Ball (Should be safe, no Bug Catching Contest)
+
         === "Items"
 
-            - 36101 - X
-            - 36102 - X
-            - 36103 - X
-            - 36104 - X
-            - 36105 - X
-            - 36106 - X
-            - 36107 - X
-            - 36108 - X
-            - 36109 - X
-            - 36110 - X
+            Healing Items
+
+            - 36101 - Full Restore
+            - 36102 - Full Heal
+            - 36103 - Max Revive
+            - 36104 - Max Elixir
+            - 36105 - Rare Candy
+
+            Other Items
+
+            - 36301 - Evolution Stones
+            - 36302 - Evolution Items
+            - 36303 - Exp. Share
+            - 36304 - Ability Capsule
+            - 36305 - Ability Patch
 
         === "Currency"
 
@@ -238,7 +275,7 @@ This is what im currently working on, or towards.
             - 90999 - 250,000
             - 99999 - 500,000
 
-            ???
+            ??? (Not in use yet)
 
             - 70007 - 100,000
             - 70077 - 250,000
