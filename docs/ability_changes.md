@@ -11,4 +11,7 @@
 | Hardened Body | Halves the damage from physical moves. |
 | Engulfed | Normal-type moves become Fire-type and powered up. |
 | Blackout | Psychic-type moves become Dark-type and powered up. |
+| Radiance | Turns Normal-type moves into Light-type moves. |
+| Luring Light | Prevents the foe from fleeing. |
+| Light Absorb | Restores HP if hit by an Light-type move. |
 

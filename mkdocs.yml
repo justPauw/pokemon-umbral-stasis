@@ -140,7 +140,6 @@ markdown_extensions:
 - def_list
 - pymdownx.tasklist:
     custom_checkbox: true
-    clickable_checkbox: true
 - pymdownx.snippets
 - pymdownx.superfences
 - pymdownx.details

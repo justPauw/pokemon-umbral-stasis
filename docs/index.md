@@ -78,11 +78,6 @@ This is what im currently working on, or towards.
 
 === "Changes"
     ![Image title](https://i.ibb.co/995Y0YV/allstuff.png){ align=right }
-    ### Typings
-    Several Pokémon has had their typings changed, or added a secondary one. As a few examples, Flygon is now a Bug/Dragon Pokémon, Golduck is a Water/Psychic and Altaria is a Dragon/Fairy.
-
-    Most Pokémon that has had type changes is to either improve them, or change them into a typing I feel they should have had in the first place, as with Flygon. Every Starter Pokémon has now a dual typing, like Blastoise becoming a Water/Steel. Most of the secondary typings dont appear until the final evolution.
-
     ### Stat Spread
     There has been some stat changes to certain Pokémon. A good example is Aggron, becoming Yamoh's Psudo-Legendary Pokémon with a BST of 600. There is also Pokémon that has had minor boost like Lopunny and some with complete changes like Dusknoir. Being overshadowed by its pre-evolution with eviolite, Dusknoir usually serves no purpose. So now, when Dusclops evolves into Dusknoir, it sacrifices its normal defenses for offenses, giving it a new playstyle.
 
@@ -100,6 +95,19 @@ This is what im currently working on, or towards.
 
     A few new Unique Moves have been added to Legendary Pokémon. A few examples being the Regi's getting Titanic Impact for Regigigas, Titanic Boulder for Regirock, Titanic Cryobeam for Regice and Titanic Steelwork for Registeel. All of these moves have secondary effects to match.
 
+=== "Typings"
+    ### Type Changes
+    Several Pokémon has had their typings changed, or added a secondary one. As a few examples, Flygon is now a Bug/Dragon Pokémon, Golduck is a Water/Psychic and Altaria is a Dragon/Fairy.
+
+    Most Pokémon that has had type changes is to either improve them, or change them into a typing I feel they should have had in the first place, as with Flygon. Every Starter Pokémon has now a dual typing, like Blastoise becoming a Water/Steel. Most of the secondary typings dont appear until the final evolution.
+
+    The Ice typing, which is a fairly bad defensive typing, has gained three new resistances in Ground, Dragon, Water and Light.
+
+    ### New Typings
+    ![Image title](https://i.ibb.co/WGBCG3D/Light-Chart.png){ align=right }
+    Light Type, first introduced in the TCG during the Neo Destiny expansion as a variant and counterpart to Dark Pokémon. Although these cards were not hinting to their typing, but to their potential path or destiny a Pokémon can follow depending on how it is brought up by their trainer. However in Umbral Stasis I gave it a more literal meaning. The Light typing in Umbral Stasis lean towards the actual aspect of Light and Radiance, more than Psychic, Fairy and Electric. Some Pokémon has had Light typing added as a secondary typing or replaced as it is woven into the story as a newly confirmed typing. There has also been added new abilities, moves and some old moves have been changed into Light, like Tail Glow, Flash and Light Screen.
+
+    Umbral Type, a new and unique type to Umbral Stasis. This is a typing you will not encounter in the game until very end in the story when you first encounter Umbral Pokémon. The Umbral type resist every type in the game, does not hit anything for super effective, and is immune to itself. The type has two unique abilities which is only known by Umbral Pokémon, with three equally unique moves.
 
 === "Shinies"
     ### Shiny Pokémon
@@ -109,6 +117,7 @@ This is what im currently working on, or towards.
     I decided to updated, change and modify some shiny Pokémon I either didn't like or felt deserved a better one. If you disagree with them, that's fine, not all the new shinies are for Pokémon with bad shinies.
 
     Most Starter Pokémon has gotten a new shiny. There is a few that has only had minor adjustment or no change, like Emboar with minor change, Charizard with no change, and Torterra with full change.
+
 
 ## Information & Updates
 
@@ -141,7 +150,17 @@ This is what im currently working on, or towards.
 
 === "Updates"
 
-    !!! example "Alpha Testing v1"
+    !!! example "Alpha Test v2 - The Lit Update"
+        The game is currently in Alpha Testing. Only selected people are able to do testing. 
+
+        * Added Light-typing to the game.
+        * Existing Pokémon received and/or changed to Light-typing.
+        * Existing Moves changed to Light-typing.
+        * Added the following Abilities: Radiance, Luring Light and Light Absorb.
+        * Added the following Moves: Photon Pulse, Spark Wave, Wavelength, Glow Up, Sun Crash, Starlight, Glint, Radiant Bash, Vivid Flash, Beaming Slash and Glossy Glare.
+        * Mt. Joule Storyline added.
+
+    !!! example "Alpha Test v1 - In the Beningin"
         The game is currently in Alpha Testing. Only selected people are able to do testing.  
 
         * The game is in a playable state up until the 5th Gym.
@@ -162,7 +181,7 @@ This is what im currently working on, or towards.
         No, it would not make much sense to how the story goes.
 
     !!! question "How do I evolve Trade Evolutions?"
-        Once you meet Bill in Route 11, you can purchase Link Cord's, an evolution item that works like Elemental Stones.
+        Once you meet Bill in Route 11, you can purchase Link Cords, an evolution item that works like Elemental Stones.
 
     !!! question "How did you make Pokémon Umbral Stasis?"
         With the use of [RPG Maker XP](https://store.steampowered.com/app/235900/RPG_Maker_XP/) and [Pokémon Essentials](https://eeveeexpo.com/essentials/).
@@ -172,9 +191,9 @@ This is what im currently working on, or towards.
         With the use of [WikiGen](https://github.com/AkeemAllen/WikiGen/releases), a tool used to create Pokémon Wiki's. You can also join the [Discord](https://discord.gg/qrs2M3eeqj) if you have questions.
 
     ??? danger "𝓖𝓐𝕞𝐞 乃ʳ𝕖αķ𝓔𝕣"
-        So you've found the Game Breaker Codes. 
+        So, you've found the Game Breaker Codes. 
 
-        As the name entail, these are Cheat Codes. Find Codex in Sowset Town to redeem them, and they can be redeemed multiple times. All Pokémon will be 6IV, Preferred offensive Nature & Ability, and will be set to Level 1. The items and Poké Balls will be given in quantities of 100 per use. 
+        As the name entails, these are Cheat Codes. Find Codex in Sowset Town to claim them — note that they can be redeemed multiple times. All Pokémon will be 6IV, preferred offensive Nature & Ability, and will be set to Level 1. The items and Poké Balls will be given in quantities of 100 per use. 
 
         === "Pokémon"
 
